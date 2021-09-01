@@ -48,6 +48,7 @@ nav {
 
 section {
     background-color: rgb(8, 8, 8);
+    align-content: center;
 }
 
 .picture {
