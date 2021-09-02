@@ -13,7 +13,10 @@
 
 function lcool(){
     var answer = document.getElementById("coolness").value;
-        if(answer == "yes"){
+        if(answer.toLowerCase() == "yes"){
             document.getElementById("lizardAnswer").innerHTML = "SUPER COOL";
+        }
+        if(answer.toLowerCase() == "no"){
+            document.getElementById("lizardAnswer").innerHTML = "BOO"
         }
 }
