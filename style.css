@@ -32,20 +32,11 @@ nav {
     text-align: center;
 }
 
-#section1 { 
-    text-align: center; 
-    color: white; 
-    text-align: center; 
-}
-
-#section2 {
-    text-align: center; 
-    color: white;         
-}
-
 section {
     background-color: rgb(8, 8, 8);
-    text-align: center;
+    text-align: center; 
+    color: white;  
+
 }
 
 .picture {
