@@ -14,6 +14,6 @@
 function lcool(){
     var answer = document.getElementById("coolness").value;
         if(answer == "yes"){
-            document.getElementById("lizardAnswer").innerHTML == "SUPER COOL";
+            document.getElementById("lizardAnswer").innerHTML = "SUPER COOL";
         }
 }
